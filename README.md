@@ -10,3 +10,8 @@ It doesn't seem to be available anywhere as a
 Python script, so I copied it out of the PDF
 and cleaned it up for you.
 
+If you intend to use this code then I suggest to
+consider what you need it for. Because the Fritz!Box'es
+offer a TR-064/UPnP API, that's more straightforward to use,
+see [here](https://github.com/tpo/renew-letsencrypt-certificate-on-synology-behind-fritzbox)
+for an example of how to use Fritzbox' TR-064/UPnP API.
